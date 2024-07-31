@@ -35,6 +35,8 @@ I have a IT Engineering diploma from ESIEE Paris (2021) with a specialization in
 
 - `Nostale-raid-bot` (🟢): A discord bot for the game NosTale to help with raid creation and organisation. It was developed in Python with DiscordPy. It is hosted on Fly.io and the database is hosted on Supabase.
 
+- `Jobs scraping` (🟢): A scraping project to scrape job listings from a catalog of companies. Written in Python with SQLAlchemy. Database is hosted on Supabase and the scrapers are running on my home server.
+
 - `WakeUpVR` (🟡): A VR Escape Game where you find yourself trapped in a little girl's nightmare. Developed in C# with Unity3D and XRVR lib. <i>Compatibility was ensured for all VR Headset at the time of its creation in 2020. (Including Occulus Quest)</i>
 
 - `Triskel` (🟡): A PC game where you can switch from RTS mode to TPS mode after selecting a unit depending on the user preference and the current situation. It was created in C# with Unity3D.
